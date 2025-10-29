@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sanketshahane/projects/practice/dotnet/PracticeDotnetConcepts/PracticeDotnetConcepts.csproj": {}
+    "/Users/sanketshahane/projects/practice/dotnet/PracticeDotnet/PracticeDotnetConcepts/PracticeDotnetConcepts.csproj": {}
   },
   "projects": {
-    "/Users/sanketshahane/projects/practice/dotnet/PracticeDotnetConcepts/PracticeDotnetConcepts.csproj": {
+    "/Users/sanketshahane/projects/practice/dotnet/PracticeDotnet/PracticeDotnetConcepts/PracticeDotnetConcepts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sanketshahane/projects/practice/dotnet/PracticeDotnetConcepts/PracticeDotnetConcepts.csproj",
+        "projectUniqueName": "/Users/sanketshahane/projects/practice/dotnet/PracticeDotnet/PracticeDotnetConcepts/PracticeDotnetConcepts.csproj",
         "projectName": "PracticeDotnetConcepts",
-        "projectPath": "/Users/sanketshahane/projects/practice/dotnet/PracticeDotnetConcepts/PracticeDotnetConcepts.csproj",
+        "projectPath": "/Users/sanketshahane/projects/practice/dotnet/PracticeDotnet/PracticeDotnetConcepts/PracticeDotnetConcepts.csproj",
         "packagesPath": "/Users/sanketshahane/.nuget/packages/",
-        "outputPath": "/Users/sanketshahane/projects/practice/dotnet/PracticeDotnetConcepts/obj/",
+        "outputPath": "/Users/sanketshahane/projects/practice/dotnet/PracticeDotnet/PracticeDotnetConcepts/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sanketshahane/.nuget/NuGet/NuGet.Config"
